@@ -1,0 +1,97 @@
+[
+  {
+    "image": "/Users/salmolichandra/Desktop/Agent_pre/images/Balmain_Varsity_bomber_jacket_row2_1.jpg",
+    "attributes": {
+      "objects": [
+        {
+          "type": "jacket",
+          "style": "varsity",
+          "cut": "regular fit",
+          "closure": "snap buttons"
+        }
+      ],
+      "colors": {
+        "main": "black",
+        "sleeve": "black (leather)",
+        "body": "black (fuzzy texture)"
+      },
+      "material": {
+        "body": "fuzzy wool or similar textile",
+        "sleeves": "leather",
+        "ribbing": "knit fabric"
+      },
+      "details": {
+        "neck_type": "ribbed",
+        "pocket_style": "side pockets",
+        "embellishment": {
+          "type": "patch",
+          "location": "left chest",
+          "design": "ornate with beads"
+        }
+      },
+      "size": "standard adult sizing"
+    }
+  },
+  {
+    "image": "/Users/salmolichandra/Desktop/Agent_pre/images/Balmain_logo-print_T-shirt_row1_1.jpg",
+    "attributes": {
+      "objects": [
+        {
+          "type": "t-shirt",
+          "fit": "loose",
+          "sleeve_length": "short",
+          "neck_type": "crew neck"
+        }
+      ],
+      "colors": {
+        "base": "black",
+        "graphic": "teal"
+      },
+      "style": {
+        "graphic_type": "text",
+        "font_style": "script",
+        "placement": "diagonal"
+      },
+      "text": "Balmain"
+    }
+  },
+  {
+    "image": "/Users/salmolichandra/Desktop/Agent_pre/images/Moschino_Kids_Leo_Teddy-print_skirt_set_row1_1.jpg",
+    "attributes": {
+      "objects": {
+        "type": "dress",
+        "design": {
+          "top": {
+            "color": "white",
+            "sleeve_type": "ruffled",
+            "graphic": {
+              "character": "bear",
+              "action": "fishing",
+              "sea_creature": "crab"
+            },
+            "brand": "Moschino"
+          },
+          "bottom": {
+            "color": "yellow",
+            "style": "ruffled skirt"
+          }
+        }
+      },
+      "colors": [
+        "white",
+        "yellow",
+        "orange",
+        "brown",
+        "red"
+      ],
+      "style": {
+        "theme": "playful",
+        "age_group": "children"
+      },
+      "text": {
+        "brand_name": "Moschino",
+        "graphic_text": "None"
+      }
+    }
+  }
+]

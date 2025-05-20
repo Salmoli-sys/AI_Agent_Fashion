@@ -1,0 +1,9 @@
+Image: /Users/salmolichandra/Desktop/Agent_pre/images/Balmain_Varsity_bomber_jacket_row2_1.jpg
+Black, black (leather), black (fuzzy texture).
+
+Image: /Users/salmolichandra/Desktop/Agent_pre/images/Balmain_logo-print_T-shirt_row1_1.jpg
+A loose black t-shirt with short sleeves and a crew neck featuring teal text in a diagonal script style that reads "Balmain."
+
+Image: /Users/salmolichandra/Desktop/Agent_pre/images/Moschino_Kids_Leo_Teddy-print_skirt_set_row1_1.jpg
+White, yellow, orange, brown, red.
+
